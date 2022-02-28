@@ -4,12 +4,11 @@ I am a curious IT professional Kemal who loves to learn new things and now, I us
 
 **kemal-gokhan/kemal-gokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on yaml :)
 - 🌱 I’m currently learning devops tools and public clouds especially, Azure.
 - - 📫 How to reach me: on linkedin https://www.linkedin.com/in/kemalgokhan/ 😊 
 - - Certs: https://www.youracclaim.com/users/kemal-gokhan/badges
+- - Here is my bootcamp notes. https://github.com/kemal-gokhan/devops-edu
 
 ###### My development @Udemy
 
