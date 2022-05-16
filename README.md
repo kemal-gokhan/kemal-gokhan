@@ -14,8 +14,7 @@ I am a curious IT professional Kemal who loves to learn new things and now, I us
     - Gitlab CI/CD
     - Jenkins
     - Terraform
-    - Prometheus
-    - Argo CD
+ 
 
 ###### My development @Udemy
 
